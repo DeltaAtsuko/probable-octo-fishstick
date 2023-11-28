@@ -1,13 +1,13 @@
 [
 	{
-		"name": "Holodeck",
+		"name": "HQ",
 		"replaces": "Shrine",
 		"uniqueTo": "Sky Shatter Rebellion",
-		"cost": 480,
+		"cost": 80,
 		"happiness": 300,
-		"culture": 120,
-		"science": 320,
-		"maintenance": 96,
+		"culture": 620,
+		"science": 620,
+		"maintenance": 0,
 		"isNationalWonder": true,
 	},
 	{
