@@ -1,25 +1,22 @@
 [
 	{
 		"name": "Holodeck",
-		"replaces": "Circus Maximus",
-		"uniqueTo": "Aliens",
+		"replaces": "Shrine",
+		"uniqueTo": "Sky Shatter Rebellion",
 		"cost": 480,
-		"happiness": 12,
-		"culture": 12,
-		"science": 12,
+		"happiness": 300,
+		"culture": 120,
+		"science": 320,
 		"maintenance": 96,
 		"isNationalWonder": true,
-		"requiredBuildingInAllCities": "Colosseum",
-		"requiredTech": "Horseback Riding"
 	},
 	{
-		"name": "Breeders",
-		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
+		"name": "Black Market",
+		"replaces": "Market",
+		"uniqueTo": "Sky Shatter Rebellion",
 		"cost": 80,
 		"hurryCostModifier": 160,
-		"happiness": 2,
-		"uniques": ["40% of food is carried over after a new citizen is born"],
-		"requiredTech": "Engineering"
+		"happiness": 20,
+		"requiredTech": "Currency"
 	}
 ]
