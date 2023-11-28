@@ -1,6 +1,6 @@
 [
 	{
-		"name": "Sky Shatter Rebelion",
+		"name": "Sky Shatter Rebellion",
 		"leaderName": "Aurora",
 		"adjective": ["SSR"],
 		"startBias": ["Snow"],
@@ -9,9 +9,9 @@
 		"startIntroPart1": "We adapt!",
 		"startIntroPart2": "We overcome",
 		
-		"declaringWar": "Spread the word of the rebelion",
+		"declaringWar": "Spread the word of the rebellion",
 		"attacked": "As expected",
-		"defeated": "Down with the rebelion",
+		"defeated": "Down with the rebellion",
 		"introduction": "We stand guard",
 		
 		"neutralHello": "Greetings!",
