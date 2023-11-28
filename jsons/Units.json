@@ -1,17 +1,15 @@
 [
 	{
-		"name": "Phasers",
+		"name": "Rebel",
 		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
-		"movement": 2,
+		"uniqueTo": "Sky Shatter RebelLion",
+		"replaces": "Warrior",
+		"movement": 10,
 		"strength": 90,
 		"rangedStrength": 36,
-		"range": 2,
+		"range": 10,
 		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
+		"requiredResource": "Iron",
 		"attackSound": "phasers"
 	}
 ]
