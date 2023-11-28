@@ -2,7 +2,7 @@
 	{
 		"name": "Rebel",
 		"unitType": "Ranged",
-		"uniqueTo": "Sky Shatter RebelLion",
+		"uniqueTo": "Sky Shatter Rebellion",
 		"replaces": "Warrior",
 		"movement": 10,
 		"strength": 90,
